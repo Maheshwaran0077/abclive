@@ -184,7 +184,7 @@ a img{
   .header {
     align-self: stretch;
     justify-content: space-between;
-    height: -99px;
+    height: 82px !important;
   }
   .contact-us {
     width: 20px;
