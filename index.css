@@ -294,6 +294,9 @@ a img{
   .website {
     padding: 0 !important;
   }
+  .follow-us{
+    gap: 10px;
+  }
 
   .website-under-construction {
     font-size: 39px;
