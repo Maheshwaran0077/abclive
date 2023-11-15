@@ -180,6 +180,9 @@ a img{
 
     right: 100px;
   }
+  .main{
+    gap:20px !important
+  }
   .header {
     align-self: stretch;
     justify-content: space-between;
