@@ -6,7 +6,7 @@
   flex-shrink: 0;
 }
   
-span {
+span { 
   /* border-style: solid; */
   /* border-width: 1px;    */
   border-bottom: 1px solid;
@@ -181,8 +181,9 @@ a img{
     right: 100px;
   }
   .main{
-    gap:20px !important
-  }
+
+  gap:15px !important
+   }
   .header {
     align-self: stretch;
     justify-content: space-between;
