@@ -299,7 +299,7 @@ a img{
   .website-under-construction {
     font-size: 39px;
     color: var(--color-crimson);
-    margin-top:70px;
+    margin-top:70px !important;
   }
 }
 
