@@ -165,8 +165,7 @@ a img{
 .overlay a:hover,
 .overlay a:focus {
   color: var(--color-white);
-  /* border-bottom: 2px soild red; */
-}
+ }
 
 .overlay .closebtn {
   position: absolute;
@@ -211,8 +210,7 @@ a img{
   }
   
   span {
-    /* border-style: solid; */
-    /* border-width: 1px;    */
+     
     border-bottom: 1px solid;
     position: relative;
     margin: 50px;
@@ -246,10 +244,7 @@ a img{
     display: none;
     background-color: transparent;
   }
-  /* .menuicon {
-    display: block;
-    width: 150px;
-  } */
+ 
 
   .main-man {
     position: relative;
@@ -267,15 +262,15 @@ a img{
     height: 471px;
   }
   .vector-l-1 {
-    top: -5px;
+    top: 65px;
     left: 124px;
     width: 96px;
     height: 104.7px;
     object-fit: contain;
   }
   .vector-r-1 {
-    top: 117.8px;
-    left: 308px;
+    top: 189.8px;
+    left: 303px;
     width: 72px;
     object-fit: contain;
   }
@@ -310,9 +305,7 @@ a img{
     right: 100px;
   }
   span {
-    /* border-style: solid; */
-    /* border-width: 1px;    */
-    /* border-bottom: 1px solid; */
+   
     position: relative;
     margin: 50px;
     font-size: 18px;
@@ -358,10 +351,7 @@ a img{
     display: none;
     background-color: transparent;
   }
-  /* .menuicon {
-    display: block;
-    width: 150px;
-  } */
+ 
 
   .main-man {
     position: relative;
