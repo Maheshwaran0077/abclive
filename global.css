@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-big-shoulders-text: "Big Shoulders Text";
+
+  /* Colors */
+  --color-white: #fff;
+  --color-crimson: #d81f27;
+  --color-darkslateblue: #242366;
+
+  /* Gaps */
+  --gap-xs: 12px;
+}
